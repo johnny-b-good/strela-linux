@@ -129,10 +129,13 @@ xfsprogs
 xl2tpd
 zsh
 
-# KDE base
+# Network (system)
+networkmanager
+
+# KDE base (GUI)
 plasma-meta
 
-# Internet
+# Internet (GUI)
 firefox
 thunderbird
 ktorrent
@@ -141,11 +144,11 @@ konversation
 krdc
 kdeconnect
 
-# Office
+# Office (GUI)
 okular
 merkuro
 
-# Graphics
+# Graphics (GUI)
 kruler
 kcolorchooser
 kolourpaint
@@ -153,14 +156,14 @@ gimp
 gwenview
 skanlite
 
-# System
+# System (GUI)
 dolphin
 konsole
 discover
 ksystemlog
 partitionmanager
 
-# Utils
+# Utils (GUI)
 kcalc
 kcharselect
 kate
@@ -168,14 +171,6 @@ filelight
 spectacle
 ark
 
-# Multimedia
+# Multimedia (GUI)
 elisa
 vlc
-
-# Games
-kmines
-kpat
-kmahjongg
-ksudoku
-kigo
-knights
