@@ -2,13 +2,10 @@
 
 Things to do in no particular order:
 
-- Bluetooth
-- Audio (Pipewire)
 - Plymouth
 - Archive formats (everything Ark supports)
 - Media codecs (GStreamer?)
 - File systems
-- Network Manager
 - Firewall
 - Fonts
 - Flatpak
@@ -34,5 +31,9 @@ Things to do in no particular order:
 - Hide useless item from the main menu
 
 # DONE
+
+- Bluetooth
+- Network Manager
+- Audio (Pipewire)
 
 # REJECTED
