@@ -2,7 +2,6 @@
 
 Things to do in no particular order:
 
-- Plymouth
 - Archive formats (everything Ark supports)
 - Media codecs (GStreamer?)
 - File systems
@@ -10,7 +9,6 @@ Things to do in no particular order:
 - Fonts
 - Flatpak
 - Packagekit
-- Console stuff
 - Drivers (nvidia, wacom, wi-fi, etc)
 - Printing (CUPS)
 - Samba
@@ -35,5 +33,6 @@ Things to do in no particular order:
 - Bluetooth
 - Network Manager
 - Audio (Pipewire)
+- Plymouth
 
 # REJECTED

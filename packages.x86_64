@@ -145,6 +145,9 @@ bluez-obex
 # Network (system)
 networkmanager
 
+# Other (system)
+plymouth
+
 # KDE base (GUI)
 plasma-meta
 
