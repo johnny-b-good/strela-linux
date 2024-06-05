@@ -119,7 +119,7 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
-virtualbox-guest-utils-nox
+virtualbox-guest-utils
 vpnc
 wireless-regdb
 wireless_tools
@@ -128,3 +128,54 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+# KDE base
+plasma-meta
+
+# Internet
+firefox
+thunderbird
+ktorrent
+neochat
+konversation
+krdc
+kdeconnect
+
+# Office
+okular
+merkuro
+
+# Graphics
+kruler
+kcolorchooser
+kolourpaint
+gimp
+gwenview
+skanlite
+
+# System
+dolphin
+konsole
+discover
+ksystemlog
+partitionmanager
+
+# Utils
+kcalc
+kcharselect
+kate
+filelight
+spectacle
+ark
+
+# Multimedia
+elisa
+vlc
+
+# Games
+kmines
+kpat
+kmahjongg
+ksudoku
+kigo
+knights
