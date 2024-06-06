@@ -145,8 +145,16 @@ bluez-obex
 # Network (system)
 networkmanager
 
+# Packaging (system)
+packagekit-qt6
+flatpak
+flatpak-kcm
+xdg-desktop-portal
+xdg-desktop-portal-kde
+
 # Other (system)
 plymouth
+plymouth-kcm
 
 # KDE base (GUI)
 plasma-meta

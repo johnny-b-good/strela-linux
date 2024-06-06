@@ -7,8 +7,6 @@ Things to do in no particular order:
 - File systems
 - Firewall
 - Fonts
-- Flatpak
-- Packagekit
 - Drivers (nvidia, wacom, wi-fi, etc)
 - Printing (CUPS)
 - Samba
@@ -27,6 +25,7 @@ Things to do in no particular order:
 - Browsers (Chrome, Yandex)
 - Network utils (dns, whois)
 - Hide useless item from the main menu
+- GRUB bootloader by default
 
 # DONE
 
@@ -34,5 +33,7 @@ Things to do in no particular order:
 - Network Manager
 - Audio (Pipewire)
 - Plymouth
+- Packagekit
+- Flatpak
 
 # REJECTED
