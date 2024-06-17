@@ -135,6 +135,7 @@ wireplumber
 pipewire-alsa
 pipewire-pulse
 pipewire-audio
+pipewire-jack
 
 # Bluetooth (system)
 bluez
@@ -151,13 +152,29 @@ flatpak
 flatpak-kcm
 xdg-desktop-portal
 xdg-desktop-portal-kde
+xdg-desktop-portal-gtk
 
 # Other (system)
 plymouth
 plymouth-kcm
 
-# KDE base (GUI)
+# KDE (all)
 plasma-meta
+baloo-widgets
+dolphin-plugins
+ffmpegthumbs
+kdegraphics-thumbnailers
+kdenetwork-filesharing
+kimageformats
+kio-admin
+kio-extras
+kio-fuse
+qt6-imageformats
+xwaylandvideobridge
+powerdevil
+power-profiles-daemon
+xsettingsd
+icoutils
 
 # Internet (GUI)
 firefox
@@ -173,8 +190,6 @@ okular
 merkuro
 
 # Graphics (GUI)
-kruler
-kcolorchooser
 kolourpaint
 gimp
 gwenview
@@ -198,3 +213,15 @@ ark
 # Multimedia (GUI)
 elisa
 vlc
+
+# Fonts
+noto-fonts
+noto-fonts-cjk
+noto-fonts-emoji
+gnu-free-fonts
+ttf-dejavu
+ttf-droid
+ttf-roboto
+ttf-roboto-mono
+ttf-liberation
+ttf-ubuntu-font-family

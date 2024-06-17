@@ -6,7 +6,6 @@ Things to do in no particular order:
 - Media codecs (GStreamer?)
 - File systems
 - Firewall
-- Fonts
 - Drivers (nvidia, wacom, wi-fi, etc)
 - Printing (CUPS)
 - Samba
@@ -16,7 +15,6 @@ Things to do in no particular order:
 - Russian packages (locales, dictionaries, keyboard layouts, fonts, manuals)
 - Installer
 - Branding
-- Extra KDE stuff from https://community.kde.org/Distributions/Packaging_Recommendations
 - Terminal stuff (htop, mc, nano, links, vim/neovim)
 - Enable multilib repos
 - Set russian repos
@@ -35,5 +33,7 @@ Things to do in no particular order:
 - Plymouth
 - Packagekit
 - Flatpak
+- Fonts
+- Extra KDE stuff from https://community.kde.org/Distributions/Packaging_Recommendations
 
 # REJECTED
