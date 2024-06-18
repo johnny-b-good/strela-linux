@@ -1,0 +1,13 @@
+# remove from airootfs!
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Type = Package
+Target = *
+
+[Action]
+Description = Build locales
+When = PostTransaction
+Depends = sh
+Depends = glibc
+Exec = /bin/sh -c "locale-gen"

@@ -175,6 +175,9 @@ powerdevil
 power-profiles-daemon
 xsettingsd
 icoutils
+aspell
+hunspell
+xdg-user-dirs
 
 # Internet (GUI)
 firefox
@@ -188,6 +191,7 @@ kdeconnect
 # Office (GUI)
 okular
 merkuro
+libreoffice-fresh
 
 # Graphics (GUI)
 kolourpaint
@@ -225,3 +229,13 @@ ttf-roboto
 ttf-roboto-mono
 ttf-liberation
 ttf-ubuntu-font-family
+
+# Locale (RU)
+man-pages-ru
+firefox-i18n-ru
+firefox-spell-ru
+thunderbird-i18n-ru
+aspell-ru
+hunspell-ru
+gimp-help-ru
+libreoffice-fresh-ru

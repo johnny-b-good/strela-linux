@@ -10,9 +10,6 @@ Things to do in no particular order:
 - Printing (CUPS)
 - Samba
 - Scanning (SANE)
-- Libre Office
-- Russian locale by default
-- Russian packages (locales, dictionaries, keyboard layouts, fonts, manuals)
 - Installer
 - Branding
 - Terminal stuff (htop, mc, nano, links, vim/neovim)
@@ -24,6 +21,8 @@ Things to do in no particular order:
 - Network utils (dns, whois)
 - Hide useless item from the main menu
 - GRUB bootloader by default
+- sudo
+- Sign images
 
 # DONE
 
@@ -35,5 +34,8 @@ Things to do in no particular order:
 - Flatpak
 - Fonts
 - Extra KDE stuff from https://community.kde.org/Distributions/Packaging_Recommendations
+- Russian locale by default
+- Russian packages (locales, dictionaries, keyboard layouts, fonts, manuals)
+- Libre Office
 
 # REJECTED
