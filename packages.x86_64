@@ -239,3 +239,39 @@ aspell-ru
 hunspell-ru
 gimp-help-ru
 libreoffice-fresh-ru
+
+# Console utils
+htop
+mc
+nano
+links
+vim
+fastfetch
+nvtop
+pv
+
+# Drivers (xorg)
+xorg-server
+xf86-input-libinput
+xf86-input-wacom
+xf86-input-evdev
+xf86-video-amdgpu
+xf86-video-ati
+xf86-video-fbdev
+xf86-video-intel
+xf86-video-vesa
+xf86-video-vmware
+xf86-input-synaptics
+# xf86-video-nouveau
+
+# Drivers (nvidia)
+nvidia
+nvidia-prime
+nvidia-settings
+nvidia-utils
+
+# Drivers (firmware)
+linux-firmware-qlogic
+
+# Drivers (wi-fi)
+broadcom-wl

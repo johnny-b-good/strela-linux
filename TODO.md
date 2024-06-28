@@ -6,13 +6,11 @@ Things to do in no particular order:
 - Media codecs (GStreamer?)
 - File systems
 - Firewall
-- Drivers (nvidia, wacom, wi-fi, etc)
 - Printing (CUPS)
 - Samba
 - Scanning (SANE)
 - Installer
 - Branding
-- Terminal stuff (htop, mc, nano, links, vim/neovim)
 - Enable multilib repos
 - Set russian repos
 - Gaming (Steam, Wine, Port Proton)
@@ -37,5 +35,7 @@ Things to do in no particular order:
 - Russian locale by default
 - Russian packages (locales, dictionaries, keyboard layouts, fonts, manuals)
 - Libre Office
+- Terminal stuff (htop, mc, nano, links, vim/neovim)
+- Drivers (nvidia, wacom, wi-fi, etc)
 
 # REJECTED
