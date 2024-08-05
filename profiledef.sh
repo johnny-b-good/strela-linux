@@ -2,10 +2,10 @@
 # shellcheck disable=SC2034
 
 iso_name="strela"
-iso_label="STRELA_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
+iso_label="STRELA_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y)"
 iso_publisher="Strela Linux <https://strela-linux.ru>"
 iso_application="Strela Linux Live/Rescue DVD"
-iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y.%m.%d)"
+iso_version="$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y)"
 install_dir="arch"
 buildmodes=('iso')
 bootmodes=('uefi-ia32.systemd-boot.esp' 'uefi-x64.systemd-boot.esp'
@@ -20,9 +20,10 @@ file_permissions=(
   ["/root"]="0:0:750"
   ["/root/.automated_script.sh"]="0:0:755"
   ["/root/.gnupg"]="0:0:700"
-  ["/usr/local/bin/choose-mirror"]="0:0:755"
   ["/usr/local/bin/Installation_guide"]="0:0:755"
   ["/usr/local/bin/livecd-sound"]="0:0:755"
-  ["/etc/shadow"]="0:0:0400"
-  ["/etc/gshadow"]="0:0:0400"
+  ["/etc/shadow"]="0:0:600"
+  ["/etc/gshadow"]="0:0:600"
+  ["/etc/sudoers.d"]="0:0:750"
+  ["/etc/sudoers.d/live"]="0:0:440"
 )

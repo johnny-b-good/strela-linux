@@ -19,7 +19,6 @@ Things to do in no particular order:
 - Network utils (dns, whois)
 - Hide useless item from the main menu
 - GRUB bootloader by default
-- sudo
 - Sign images
 
 # DONE
@@ -37,5 +36,6 @@ Things to do in no particular order:
 - Libre Office
 - Terminal stuff (htop, mc, nano, links, vim/neovim)
 - Drivers (nvidia, wacom, wi-fi, etc)
+- sudo
 
 # REJECTED
